@@ -16,11 +16,17 @@
 ## 🛠️ Tech Stack
 
 **Backend:** PHP • Laravel • Node.js
+
 **Frontend:** React.js • JavaScript • HTML • CSS
+
 **CMS:** WordPress • WooCommerce
+
 **Database:** MySQL
+
 **APIs:** REST API • Third-Party API Integration
+
 **AI:** AI APIs • Generative AI
+
 **Tools:** Git • GitHub • Composer • Vite
 
 ## 📌 What I Do
